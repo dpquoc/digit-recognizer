@@ -25,7 +25,7 @@ pip install keras
 jupyter notebook
 ```
 
-3. Open the `main.ipynb` notebook in Jupyter Notebook.
+3. Open the `hand_digit_recognition.ipynb` notebook in Jupyter Notebook.
 
 4. Run each cell in the notebook to execute the code and train the model.
 
